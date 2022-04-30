@@ -5,12 +5,12 @@ Popular culture has been heavily criticized for normalizing gendered insults and
 ## Repo Descriptions 
 | Name  | Type  | Description  |
 |---|---|---|
-| viz  | file | Visualizations & Plots |
+| viz  | file | visualizations & plots |
 | bert_mlm.sbatch | script | sbatch script to train BERT on cluster  |
 | bert_utils.py | script | utility functions to retrieve embeddings |
 | embeddings.ipynb | notebook | train, test models, clustering analysis and present visualization  |
 | main.py | script | segment and preprocess data for MLM |
-| model.py | script | Customize dataset class |
+| model.py | script | customize dataset class |
 | preprocessing.ipynb | notebook | data merging, cleaning, record-linkage and prevalence analysis that includes counting/frequency plots |
 | preprocessing.py | script | helper functions for preprocessing |
 | train.py| script | BERT fine-tuning script |
