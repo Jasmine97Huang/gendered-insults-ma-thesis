@@ -1,5 +1,5 @@
 # Changing Semantics of Gendered Insults in Music Lyrics
-This repo contains code and data for a paper submitted in partial fulfillment of the requirements for the Master of Arts degree in the Master of Arts in Computational Social Science
+This repo contains code and data for a paper submitted in partial fulfillment of the requirements for the Master of Arts degree in the Master of Arts in Computational Social Science.
 ## Abstract
 Popular culture has been heavily criticized for normalizing gendered insults and perpetuating gender stereotypes. Lyrics, powerful platforms for social change and artistic expressions, are particular salient venues to study the changing meanings of gendered insults and the cultural shifts underneath. Using neural network-based word representations, this article dynamically captures different uses of a gender slur in more than 1.6 million lyric sentences over time among different gender groups. First of its kind in both scale and approach, this analysis tracks the evolutions of the referents and connotations of gendered insults to highlight the progress, struggles, and limitations of the feminist movement in the popular culture space.
 ## Repo Descriptions 
